@@ -9,12 +9,12 @@ $ minikube version
 minikube version: v1.18.1
 commit: 09ee84d530de4a92f00f1c5dbc34cead092b95bc
 ```
-HashiCorp Vault 1.6.2 (Note, Vault Enterprise is necessary for demo since placement of PKI secrets engines on Namespaces is demonstrated).
+HashiCorp Vault 1.6.2
 ```
 $ vault version
 Vault v1.6.2
 ```
-Helm 3.3.0:
+Helm 3.4.1:
 ```
 $ helm version
 version.BuildInfo{Version:"v3.4.1", GitCommit:"c4e74854886b2efe3321e185578e6db9be0a6e29", GitTreeState:"dirty", GoVersion:"go1.15.4"}
